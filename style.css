@@ -8,11 +8,10 @@ h1:hover{
 background-color: black;
 text-align: center;
 color: blue;
-font-size: 50px;
+font-size: 70px;
 font-family: "Calibri";
 }
 img {
-    position: fixed;
-    top: 300;
+    position: relative;
     right: 190px;
 }
